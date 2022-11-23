@@ -2,5 +2,5 @@
 - in this project i have used real time api reqres that helps in during authantication
 - i used server hooks of react to manage state
 - i have used useContext hook make private routing
-- i have also used some packages like axiox to handle api promises
+- i have also used some packages like axios library to handle api promises
 - i have used react-router-dom to create routing to this website
