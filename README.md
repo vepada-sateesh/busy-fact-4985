@@ -1,0 +1,6 @@
+- this is an individual project where i have tried to clone some portion of bigbasket website in the span of three days 
+- in this project i have used real time api reqres that helps in during authantication
+- i used server hooks of react to manage state
+- i have used useContext hook make private routing
+- i have also used some packages like axiox to handle api promises
+- i have used react-router-dom to create routing to this website
